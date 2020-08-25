@@ -1,0 +1,101 @@
+body{
+	margin: 0px;
+}
+header{
+	height: 80px;
+	width: 100%;
+	background-color: blue;
+	
+}
+header a{
+	font-size: 30px;
+	background-color: blue;
+	top: 20px;
+	margin-left: 30px;
+	position: relative;
+	border:2px solid yellow;
+	}
+nav{
+    height:500px;
+    width:150px;
+    background-color: rgb(100,100,100);
+    float: left;
+    text-align: center;
+    font-size: 30px;
+   }
+nav h2{
+	position: relative;
+	top: 100px;
+}
+.middle{
+	background-color: rgb(150,140,200);
+	display: flex;
+	flex-wrap: wrap;
+	height:500px;
+
+}
+.banner1{
+         height: 100px;
+         width: 300px;
+         background-color: rgb(200,200,230);
+         position: relative;
+         top: 20px;
+         margin-left: 150px;
+         font-size: 25px;
+	    }
+.banner1 a{
+	position: relative;
+	top: 30px;
+}	    
+	
+.banner2{
+	     height: 100px;
+         width: 300px; 
+         background-color: rgb(200,200,230);
+         position: relative;
+         top: 20px;
+         margin-left: 350px;
+         font-size: 25px;	
+	    }
+.banner2 a{
+	position: relative;
+	top: 30px;
+}
+.BLOCK-1{
+	    
+	     height: 80px;
+	     width: 200px;
+	     background-color:green;
+	     position: relative;
+	     top: 400px;
+	     margin-left:-870px;
+	     }
+   
+.BLOCK-2{
+	     
+	     height: 80px;
+	     width: 200px;
+	     background-color:green;
+	     position: relative;
+	     top: 400px;
+	     margin-left:200px;	
+	    }
+
+.BLOCK-3{
+    
+    	height: 80px;
+	    width: 200px;
+    	background-color:green;
+	    position: relative;
+	    top: 400px;
+	    margin-left:200px;
+	    }
+
+footer  {
+	background-color: rgb(156,123,158);
+	height: 70px;
+	width: 100%;
+         }
+footer a{
+	font-size: 30px;
+         }         
